@@ -24,14 +24,16 @@
 ###
 <p align="left"></p>
 
+
+<h1 align="left">📊GitHub Stats :</h1> 
+![](https://github-readme-stats.vercel.app/api?username=FabricioBGrigolo&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FabricioBGrigolo&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioBGrigolo&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
 ###
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
-
-###
-<img href="https://github.com/FabricioBGrigolo /FabricioBGrigolo /blob/output/snake.svg" alt="Snake animation" />
-
-###
