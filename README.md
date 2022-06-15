@@ -6,7 +6,7 @@
 </div>
 
 ###
-<p align="left">These are the technologies that I have studied or worked with.</p>
+<h2 align="left">I am currently in a web development internship at <a href="[https:/](https://agencianoz.com/)">NOZ</a>, using the tools below.</h2>
 
 ###
 <div align="left">
