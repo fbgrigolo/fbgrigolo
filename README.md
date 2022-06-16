@@ -27,15 +27,13 @@
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioBGrigolo&theme=dracula&hide_border=true" /><br/>
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<div align="left">
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&username=fbgrigolo" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=fbgrigolo" height="150" alt="languages graph"  />
 </div>
 
 ###
+
 
 <h2>Let's connect?</h2>
 ###
