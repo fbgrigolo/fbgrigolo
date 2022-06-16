@@ -26,10 +26,9 @@
 <p align="left"></p>
 
 
-<h1 align="left">📊GitHub Stats :</h1> 
-<img src="https://github-readme-stats.vercel.app/api?username=FabricioBGrigolo&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" /> <br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioBGrigolo&theme=dracula&hide_border=true" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioBGrigolo&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="left">
@@ -38,6 +37,7 @@
 
 ###
 
+<h2>Let's connect?</h2>
 ###
 <div align="left">
   
