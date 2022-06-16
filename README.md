@@ -22,9 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
 </div>
 
-###
-<p align="left"></p>
-
 
 
 <div align="center">
@@ -32,10 +29,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=fbgrigolo" height="150" alt="languages graph"  />
 </div>
 
-###
-
 
 <h2>Let's connect?</h2>
+
 ###
 <div align="left">
   
