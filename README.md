@@ -1,7 +1,5 @@
 <h1 align="left">🏴‍☠️ Be welcome! 🏴‍☠️</h1>
 
-<h2 align="left">Creating bugs since Jan 2022</h2>
-
 ###
 <div align="center">
   <img height="420" src="https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif"  />
@@ -25,7 +23,7 @@
 </div>
 
 ###
-<h3 align="left"> Dejavu? 🐈‍⬛</h3>
+<h3 align="left">Creating bugs since Jan 2022 🪲</h3>
 
 ###
 
