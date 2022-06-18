@@ -6,7 +6,7 @@
 </div>
 
 ###
-<h3 align="left">I am currently in a web development internship at <a href="https://agencianoz.com/">NOZ</a>, using the tools below. 💻👨‍💻</h3>
+<h3 align="left">I am currently in a web development internship at <a href="https://agencianoz.com/">NOZ</a>, using the tools below.</h3>
 
 ###
 <div align="left">
