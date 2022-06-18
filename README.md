@@ -6,7 +6,7 @@
 </div>
 
 ###
-<h3 align="left">I am currently in a web development internship at <a href="https://agencianoz.com/">NOZ</a>, using the tools below.</h3>
+<h2 align="left">I am currently in a web development internship at <a href="https://agencianoz.com/">NOZ</a>, using the tools below.</h2>
 
 ###
 <div align="left">
@@ -23,7 +23,7 @@
 </div>
 
 ###
-<h3 align="left">Creating bugs since Jan 2022 🪲</h3>
+<h2 align="left">Creating bugs since Jan 2022 🪲</h2>
 
 ###
 
@@ -33,7 +33,7 @@
 </div>
 
 ###
-<h3>Let's connect?</h3>
+<h2>Let's connect?</h2>
 
 ###
 <div align="left">
