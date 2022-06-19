@@ -23,7 +23,7 @@
 </div>
 
 ###
-<h2 align="left">Creating bugs since Jan 2022 🪲</h2>
+<h2 align="left">Creating bugs since 2022 🪲</h2>
 
 ###
 
