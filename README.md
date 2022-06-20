@@ -29,7 +29,7 @@
 
 <div align="center">  
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fbgrigolo&theme=dark&show_icons=true" />
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fbgrigolo&layout=compact&langs_count=&theme=dark" />
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fbgrigolo&layout=compact&langs_count=42&theme=dark" />
 </div>
 
 ###
