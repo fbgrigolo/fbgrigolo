@@ -28,9 +28,9 @@
 ###
 
 <div align="center">  
-![](https://github-readme-stats.vercel.app/api?username=fbgrigolo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fbgrigolo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fbgrigolo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img href="https://github-readme-stats.vercel.app/api?username=fbgrigolo&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><br/>
+<img href="https://github-readme-streak-stats.herokuapp.com/?user=fbgrigolo&theme=dark&hide_border=false"><br/>
+<img href="https://github-readme-stats.vercel.app/api/top-langs/?username=fbgrigolo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
 ###
