@@ -6,7 +6,7 @@
 </div>
 
 ###
-<h2 align="left">I am currently in a web development internship at <a href="https://agencianoz.com/">NOZ</a>, using the tools below.</h2>
+<h2 align="left"> 💻 My Stacks</h2>
 
 ###
 <div align="left">
