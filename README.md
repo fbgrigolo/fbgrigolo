@@ -6,7 +6,7 @@
 </div>
 
 ###
-<h2 align="left"> 💻 Ando trabalhando atualmente com:</h2>
+<h2 align="left"> 💻 Ando trabalhando atualmente com: </h2>
 
 ###
 <div align="left">
