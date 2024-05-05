@@ -1,4 +1,4 @@
-<h1 align="left">🏴‍☠️ Be welcome! 🏴‍☠️</h1>
+<h1 align="left">🏴‍☠️ Ahoy! 🏴‍☠️</h1>
 
 ###
 <div align="center">
